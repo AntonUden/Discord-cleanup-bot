@@ -1,8 +1,9 @@
 {
 	"discord_token": "",
 	"channels": [
-		
+		"611849905459298336"
 	],
-	"scan_interval": 30000,
-	"delete_after": 5
+	"scan_interval": 7200000,
+	"delete_after": 86400,
+	"fetch_limit": 50
 }
