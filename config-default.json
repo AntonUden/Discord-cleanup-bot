@@ -1,0 +1,8 @@
+{
+	"discord_token": "",
+	"channels": [
+		
+	],
+	"scan_interval": 30000,
+	"delete_after": 5
+}
